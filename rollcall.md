@@ -49,5 +49,5 @@ Name, Email, and Website URL
 
 * Christina Bobyack
    * Email: bobyackc@kean.edu
-   * Website: https://eve.kean.edu/~bobyackc/TECH3740/Christina.html
+   * Website: http://eve.kean.edu/~bobyackc/TECH3740/web_Prog_Project_2.html
 
